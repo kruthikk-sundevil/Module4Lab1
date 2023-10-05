@@ -1,0 +1,15 @@
+{
+  "name": "m4l1_kruthikk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "kruthikk@asu.edu",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.5.4"
+  }
+}
